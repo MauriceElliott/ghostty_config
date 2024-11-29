@@ -4,6 +4,7 @@ foreground= DAE3EB
 
 # Comments start with a `#` and are only valid on their own line.
 # Blank lines are ignored!
+macos-option-as-alt = true
 
 keybind = global:cmd+s=toggle_quick_terminal
 keybind = alt+shift+left=resize_split:left,5
