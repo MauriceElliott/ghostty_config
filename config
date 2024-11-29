@@ -1,0 +1,56 @@
+# The syntax is "key = value". The whitespace around the equals doesn't matter.
+background = 080703
+foreground= DAE3EB
+
+# Comments start with a `#` and are only valid on their own line.
+# Blank lines are ignored!
+
+keybind = global:cmd+s=toggle_quick_terminal
+keybind = alt+shift+left=resize_split:left,5
+keybind = alt+shift+down=resize_split:down,5
+keybind = alt+shift+up=resize_split:up,5
+keybind = alt+shift+right=resize_split:right,5
+keybind = ctrl+shift+left=goto_split:left
+keybind = ctrl+shift+right=goto_split:right
+keybind = ctrl+shift+up=goto_split:top
+keybind = ctrl+shift+down=goto_split:bottom
+
+font-family = "DepartureMono Nerd Font"
+font-size = 14
+font-synthetic-style = bold
+font-thicken = true
+# Colors can be changed by setting the 16 colors of `palette`, which each color
+# being defined as regular and bold.
+
+macos-titlebar-style = hidden
+window-decoration=false
+background-opacity=0.85
+background-blur-radius=10
+unfocused-split-opacity=0.9
+
+cursor-style = block_hollow
+
+# black
+palette = 0=#0F2733
+palette = 8=#1B465C
+# red
+palette = 1=#694D39
+palette = 9=#997154
+# green
+palette = 2=#5EA331
+palette = 10=#9DC489
+# yellow
+palette = 3=#CC6114
+palette = 11=#DAED61
+# blue
+palette = 4=#2B5A73
+palette = 12=#3A7899
+# purple
+palette = 5=#52314C
+palette = 13=#73456B
+# aqua
+palette = 6=#57849C
+palette = 14=#74B0CF
+# white
+palette = 7=#9EA5AB
+palette = 15=#DAE3EB
