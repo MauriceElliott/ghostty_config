@@ -7,10 +7,10 @@ foreground= DAE3EB
 macos-option-as-alt = true
 
 keybind = global:cmd+s=toggle_quick_terminal
-keybind = alt+shift+left=resize_split:left,5
-keybind = alt+shift+down=resize_split:down,5
-keybind = alt+shift+up=resize_split:up,5
-keybind = alt+shift+right=resize_split:right,5
+keybind = alt+shift+left=resize_split:left,15
+keybind = alt+shift+down=resize_split:down,15
+keybind = alt+shift+up=resize_split:up,15
+keybind = alt+shift+right=resize_split:right,15
 keybind = ctrl+shift+left=goto_split:left
 keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
