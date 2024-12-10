@@ -1,6 +1,6 @@
 # The syntax is "key = value". The whitespace around the equals doesn't matter.
 background = 080703
-foreground= DAE3EB
+foreground= DFEBF5
 
 # Comments start with a `#` and are only valid on their own line.
 # Blank lines are ignored!
@@ -36,22 +36,22 @@ palette = 0=#0F2733
 palette = 8=#1B465C
 # red
 palette = 1=#694D39
-palette = 9=#997154
+palette = 9=#D9654E
 # green
-palette = 2=#5EA331
+palette = 2=#72AB4D
 palette = 10=#9DC489
 # yellow
 palette = 3=#CC6114
 palette = 11=#DAED61
 # blue
 palette = 4=#2B5A73
-palette = 12=#3A7899
+palette = 12=#628BC4
 # purple
-palette = 5=#52314C
-palette = 13=#73456B
+palette = 5=#73456B
+palette = 13=#C275D1
 # aqua
-palette = 6=#57849C
+palette = 6=#43BFAB
 palette = 14=#74B0CF
 # white
-palette = 7=#9EA5AB
-palette = 15=#DAE3EB
+palette = 7=#D5DDE3
+palette = 15=#DFEBF5
