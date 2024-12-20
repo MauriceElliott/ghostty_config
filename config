@@ -1,9 +1,8 @@
-# The syntax is "key = value". The whitespace around the equals doesn't matter.
+command = "/usr/local/bin/fish"
+
 background = 080703
 foreground= DFEBF5
 
-# Comments start with a `#` and are only valid on their own line.
-# Blank lines are ignored!
 macos-option-as-alt = true
 
 keybind = global:cmd+s=toggle_quick_terminal
@@ -17,11 +16,9 @@ keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = "DepartureMono Nerd Font"
-font-size = 14
+font-size = 11
 font-synthetic-style = bold
 font-thicken = true
-# Colors can be changed by setting the 16 colors of `palette`, which each color
-# being defined as regular and bold.
 
 macos-titlebar-style = hidden
 window-decoration=false
