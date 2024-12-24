@@ -1,7 +1,5 @@
 command = "/usr/local/bin/fish"
 
-background = 080703
-foreground= DFEBF5
 
 macos-option-as-alt = true
 
@@ -21,19 +19,30 @@ font-synthetic-style = bold
 font-thicken = true
 
 macos-titlebar-style = hidden
-window-decoration=false
-background-opacity=0.85
-background-blur-radius=10
-unfocused-split-opacity=0.9
+window-decoration = false
+background-opacity = 0.80
+background-blur-radius = 10
+unfocused-split-opacity = 0.9
 
 cursor-style = block_hollow
 
+macos-icon = custom-style
+macos-icon-frame = plastic
+macos-icon-ghost-color = #D9654E
+macos-icon-screen-color = #DAED61,#694D39
+
+# theme=Kanagawa Dragon
+
+# Gutwound Custom Theme
+# main
+background = 080703
+foreground = DFEBF5
 # black
 palette = 0=#0F2733
 palette = 8=#1B465C
 # red
 palette = 1=#694D39
-palette = 9=#D9654E
+palette = 9=#D4735F
 # green
 palette = 2=#72AB4D
 palette = 10=#9DC489
@@ -45,7 +54,7 @@ palette = 4=#2B5A73
 palette = 12=#628BC4
 # purple
 palette = 5=#73456B
-palette = 13=#C275D1
+palette = 13=#D19BCD
 # aqua
 palette = 6=#43BFAB
 palette = 14=#74B0CF
