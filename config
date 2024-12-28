@@ -13,9 +13,9 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = "B612 Mono" #"DepartureMono Nerd Font"
-font-size = 16
-font-thicken = true
+font-family = "DepartureMono Nerd Font"
+font-size = 16.5
+font-thicken = false
 
 macos-titlebar-style = hidden
 window-decoration = false
@@ -23,7 +23,7 @@ background-opacity = 0.85
 background-blur-radius = 10
 unfocused-split-opacity = 0.9
 window-padding-x=6,6
-window-padding-y=6,6
+window-padding-y=6,2
 
 cursor-style = block_hollow
 
