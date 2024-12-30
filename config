@@ -13,8 +13,8 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = "DepartureMono Nerd Font"
-font-size = 16.5
+font-family = "CaskaydiaCove Nerd Font Mono"
+font-size = 14
 font-thicken = false
 
 macos-titlebar-style = hidden
@@ -22,15 +22,15 @@ window-decoration = false
 background-opacity = 0.85
 background-blur-radius = 10
 unfocused-split-opacity = 0.9
-window-padding-x=6,6
-window-padding-y=6,2
+window-padding-x=2,2
+window-padding-y=2,2
 
 cursor-style = block_hollow
 
 macos-icon = custom-style
 macos-icon-frame = plastic
-macos-icon-ghost-color = #D9654E
-macos-icon-screen-color = #DAED61,#694D39
+macos-icon-ghost-color = #DFEBF5
+macos-icon-screen-color = #74B0CF
 
 # theme=Kanagawa Dragon
 
