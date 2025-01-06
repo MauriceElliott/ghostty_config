@@ -15,7 +15,7 @@ keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = "CaskaydiaCove Nerd Font Mono"
 font-size = 14
-font-thicken = false
+font-thicken = true
 
 macos-titlebar-style = hidden
 window-decoration = false
@@ -35,30 +35,58 @@ macos-icon-screen-color = #74B0CF
 # theme=Kanagawa Dragon
 
 # Gutwound Custom Theme
-# main
-background = 080703
-foreground = DFEBF5
-# black
-palette = 0=#0F2733
-palette = 8=#1B465C
-# red
-palette = 1=#694D39
-palette = 9=#D4735F
-# green
-palette = 2=#72AB4D
-palette = 10=#9DC489
+## main
+#background = 080703
+#foreground = DFEBF5
+## black
+#palette = 0=#0F2733
+#palette = 8=#1B465C
+## red
+#palette = 1=#694D39
+#palette = 9=#D4735F
+## green
+#palette = 2=#72AB4D
+#palette = 10=#9DC489
+## yellow
+#palette = 3=#CC6114
+#palette = 11=#DAED61
+## blue
+#palette = 4=#2B5A73
+#palette = 12=#628BC4
+## purple
+#palette = 5=#73456B
+#palette = 13=#D19BCD
+## aqua
+#palette = 6=#43BFAB
+#palette = 14=#74B0CF
+## white
+#palette = 7=#D5DDE3
+#palette = 15=#DFEBF5
+
+# Neir Automata Custom Theme
+background=EBE6D2
+foreground=2B2A2A
+#black
+palette= 0=#2B2A2A
+palette= 8=#4F413A
+#red
+palette= 1=#662A37
+palette= 9=#BF3741
+#green
+palette= 2=#4C565F
+palette= 10=456047
 # yellow
-palette = 3=#CC6114
-palette = 11=#DAED61
+palette= 3=#D99727
+palette= 11=#D9E770
 # blue
-palette = 4=#2B5A73
-palette = 12=#628BC4
+palette= 4=#3A4A67
+palette= 12=#669BBA
 # purple
-palette = 5=#73456B
-palette = 13=#D19BCD
+palette= 5=#451D2D
+palette= 13=#915464
 # aqua
-palette = 6=#43BFAB
-palette = 14=#74B0CF
+palette= 6=#457A7A
+palette= 14=#3BA99F
 # white
-palette = 7=#D5DDE3
-palette = 15=#DFEBF5
+palette= 7=#C0BCAC
+palette= 15=#EBE6D2
