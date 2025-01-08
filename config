@@ -13,9 +13,9 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = "CommitMono Nerd Font"
-font-size = 16.5
-font-thicken = true
+font-family = "CommitMonoAutomata"
+font-size = 14
+font-thicken = false
 
 macos-titlebar-style = hidden
 window-decoration = false
