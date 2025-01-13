@@ -1,4 +1,3 @@
-command = "/usr/local/bin/fish"
 
 
 macos-option-as-alt = true
@@ -13,13 +12,15 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = "CaskaydiaCove Nerd Font Mono"
-font-size = 16
+font-family = Dank Mono
+font-style = Bold
+font-size = 11
 font-thicken = false
+font-thicken-strength = 30
 
 macos-titlebar-style = hidden
 window-decoration = false
-background-opacity = 0.80
+background-opacity = 0.98
 background-blur-radius = 0
 unfocused-split-opacity = 0.95
 window-padding-x=2,2
@@ -64,7 +65,7 @@ macos-icon-screen-color = #74B0CF
 #palette = 15=#DFEBF5
 
 # Neir Automata Custom Theme
-background=EBE6D2
+background=DAD4BA
 foreground=2B2A2A
 #black
 palette= 0=#2B2A2A
