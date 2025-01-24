@@ -14,8 +14,8 @@ keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = Dank Mono
 font-style = Bold
-font-size = 11
-font-thicken = false
+font-size = 14
+font-thicken = true
 font-thicken-strength = 30
 
 macos-titlebar-style = hidden
@@ -36,58 +36,58 @@ macos-icon-screen-color = #74B0CF
 # theme=Kanagawa Dragon
 
 # Gutwound Custom Theme
-## main
-#background = 080703
-#foreground = DFEBF5
-## black
-#palette = 0=#0F2733
-#palette = 8=#1B465C
-## red
-#palette = 1=#694D39
-#palette = 9=#D4735F
-## green
-#palette = 2=#72AB4D
-#palette = 10=#9DC489
-## yellow
-#palette = 3=#CC6114
-#palette = 11=#DAED61
-## blue
-#palette = 4=#2B5A73
-#palette = 12=#628BC4
-## purple
-#palette = 5=#73456B
-#palette = 13=#D19BCD
-## aqua
-#palette = 6=#43BFAB
-#palette = 14=#74B0CF
-## white
-#palette = 7=#D5DDE3
-#palette = 15=#DFEBF5
+# main
+background = 080703
+foreground = DFEBF5
+# black
+palette = 0=#0F2733
+palette = 8=#1B465C
+# red
+palette = 1=#694D39
+palette = 9=#D4735F
+# green
+palette = 2=#72AB4D
+palette = 10=#9DC489
+# yellow
+palette = 3=#CC6114
+palette = 11=#DAED61
+# blue
+palette = 4=#2B5A73
+palette = 12=#628BC4
+# purple
+palette = 5=#73456B
+palette = 13=#D19BCD
+# aqua
+palette = 6=#43BFAB
+palette = 14=#74B0CF
+# white
+palette = 7=#D5DDE3
+palette = 15=#DFEBF5
 
 # Neir Automata Custom Theme
-background=DAD4BA
-foreground=2B2A2A
-#black
-palette= 0=#2B2A2A
-palette= 8=#402F27
-#red
-palette= 1=#662A37
-palette= 9=#992C34
-#green
-palette= 2=#244E33
-palette= 10=416647
-# yellow
-palette= 3=#B67F21
-palette= 11=#ADAD39
-# blue
-palette= 4=#3A4A67
-palette= 12=#5B89A7
-# purple
-palette= 5=#674C8B
-palette= 13=#954C5F
-# aqua
-palette= 6=#457A7A
-palette= 14=#328E8F
-# white
-palette= 7=#C0BCAC
-palette= 15=#EBE6D2
+#background=DAD4BA
+#foreground=2B2A2A
+##black
+#palette= 0=#2B2A2A
+#palette= 8=#402F27
+##red
+#palette= 1=#662A37
+#palette= 9=#992C34
+##green
+#palette= 2=#244E33
+#palette= 10=416647
+## yellow
+#palette= 3=#B67F21
+#palette= 11=#ADAD39
+## blue
+#palette= 4=#3A4A67
+#palette= 12=#5B89A7
+## purple
+#palette= 5=#674C8B
+#palette= 13=#954C5F
+## aqua
+#palette= 6=#457A7A
+#palette= 14=#328E8F
+## white
+#palette= 7=#C0BCAC
+#palette= 15=#EBE6D2
