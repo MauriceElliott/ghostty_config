@@ -2,7 +2,7 @@
 
 macos-option-as-alt = true
 
-keybind = global:cmd+s=toggle_quick_terminal
+keybind = global:ctrl+s=toggle_quick_terminal
 keybind = alt+shift+left=resize_split:left,15
 keybind = alt+shift+down=resize_split:down,15
 keybind = alt+shift+up=resize_split:up,15
@@ -13,10 +13,9 @@ keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = Dank Mono
-font-style = Bold
+#font-family = Cascadia Code NF
+font-style = bold
 font-size = 14
-font-thicken = true
-font-thicken-strength = 30
 
 macos-titlebar-style = hidden
 window-decoration = false
