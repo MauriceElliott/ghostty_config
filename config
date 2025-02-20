@@ -2,7 +2,7 @@
 
 macos-option-as-alt = true
 
-keybind = global:ctrl+s=toggle_quick_terminal
+keybind = global:ctrl+e=toggle_quick_terminal
 keybind = alt+shift+left=resize_split:left,15
 keybind = alt+shift+down=resize_split:down,15
 keybind = alt+shift+up=resize_split:up,15
