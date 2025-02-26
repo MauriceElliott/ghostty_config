@@ -13,12 +13,11 @@ keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = Dank Mono
-#font-family = Cascadia Code NF
 font-style = bold
-font-size = 14
+font-size = 12.5
 
 macos-titlebar-style = hidden
-window-decoration = false
+window-decoration = true
 background-opacity = 0.98
 background-blur-radius = 0
 unfocused-split-opacity = 0.95
