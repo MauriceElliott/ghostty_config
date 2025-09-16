@@ -12,12 +12,13 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = Annotation Mono
+ font-family = Annotation Mono
 font-style = Regular
 font-size = 13.5
 
-macos-titlebar-style = hidden
-window-decoration = false
+# macos-titlebar-style = hidden
+window-decoration = none
+gtk-titlebar = false
 background-opacity = 0.90
 background-blur-radius = 0
 unfocused-split-opacity = 0.95
