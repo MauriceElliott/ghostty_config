@@ -19,7 +19,7 @@ font-size = 13.5
 # macos-titlebar-style = hidden
 window-decoration = none
 gtk-titlebar = false
-background-opacity = 0.99
+background-opacity = 1
 background-blur-radius = 10
 unfocused-split-opacity = 0.95
 window-padding-x=2,2
@@ -32,4 +32,6 @@ macos-icon-frame = plastic
 macos-icon-ghost-color = #DFEBF5
 macos-icon-screen-color = #74B0CF
 
-theme=ayu
+theme=Ayu
+
+notify-copy = false
