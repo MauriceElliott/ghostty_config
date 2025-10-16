@@ -34,4 +34,4 @@ macos-icon-screen-color = #74B0CF
 
 theme=Ayu
 
-notify-copy = false
+app-notifications = false
