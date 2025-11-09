@@ -32,6 +32,33 @@ macos-icon-frame = plastic
 macos-icon-ghost-color = #DFEBF5
 macos-icon-screen-color = #74B0CF
 
-theme=Ayu
-
 app-notifications = false
+
+# Autumn In Chernobyl
+# main
+background =#19181A
+foreground =#F0D7C0
+# black
+palette = 0=#100A1A
+palette = 8=#1F0B0E
+# red
+palette = 1=#993636
+palette = 9=#993636
+# green
+palette = 2=#268062
+palette = 10=#268062
+# yellow
+palette = 3=#B39536
+palette = 11=#B39536
+# blue
+palette = 4=#4B5C94
+palette = 12=#4B5C94
+# purple
+palette = 5=#6B50B3
+palette = 13=#6B50B3
+# aqua
+palette = 6=#2E97B8
+palette = 14=#2E97B8
+# white
+palette = 7=#DDF0F0
+palette = 15=#DDF0F0
