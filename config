@@ -34,6 +34,8 @@ macos-icon-screen-color = #74B0CF
 
 app-notifications = false
 
+theme = autumn
+
 # Autumn In Chernobyl
 # main
 background =#19181A
