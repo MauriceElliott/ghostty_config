@@ -2,7 +2,8 @@
 
 macos-option-as-alt = true
 
-keybind = alt+shift+e=new_split:auto
+keybind = alt+shift+l=new_split:right
+keybind = alt+shift+k=new_split:down
 keybind = alt+shift+left=resize_split:left,15
 keybind = alt+shift+down=resize_split:down,15
 keybind = alt+shift+up=resize_split:up,15
@@ -13,7 +14,7 @@ keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
 font-family = Annotation Mono
-font-style = Regular
+font-style = DemiBold
 font-size = 13.5
 
 # macos-titlebar-style = hidden
