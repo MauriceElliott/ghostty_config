@@ -16,11 +16,9 @@ keybind = ctrl+shift+right=goto_split:right
 keybind = ctrl+shift+up=goto_split:top
 keybind = ctrl+shift+down=goto_split:bottom
 
-font-family = Maple Mono NF
-font-style = medium
+font-family = Jetbrains Mono Medium
 font-size = 13.5
 
-# macos-titlebar-style = hidden
 window-decoration = none
 gtk-titlebar = false
 background-opacity = 0.90
@@ -37,35 +35,6 @@ macos-icon-ghost-color = #DFEBF5
 macos-icon-screen-color = #74B0CF
 
 app-notifications = false
-
-# Automata Day Theme for Ghostty
-
-# # Background and foreground
-# background = #DAD4BA
-# foreground = #1F1E1E
-
-# # ANSI Colors (0-7)
-# palette = 0=#1F1E1E
-# palette = 1=#52212C
-# palette = 2=#1B3B26
-# palette = 3=#B67F21
-# palette = 4=#3A4A67
-# palette = 5=#5B437A
-# palette = 6=#3D6B6B
-# palette = 7=#CDC8B0
-
-# # Bright ANSI Colors (8-15)
-# palette = 8=#33251F
-# palette = 9=#732127
-# palette = 10=#406647
-# palette = 11=#ADAD39
-# palette = 12=#466A82
-# palette = 13=#8C485A
-# palette = 14=#2B797A
-# palette = 15=#EBE6D2
-
-# Helix Dark Theme for Ghostty
-# Based on custom Helix editor palette
 
 # Main colors
 background = #1A1313
